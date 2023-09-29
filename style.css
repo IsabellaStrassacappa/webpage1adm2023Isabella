@@ -1,3 +1,9 @@
 body {
-background: #FFB6C1
+   background: #FFB6C1
+}
+p {
+  text-align: center;
+}
+em strong {
+  color:#D8BFD8
 }
