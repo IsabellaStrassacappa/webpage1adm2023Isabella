@@ -33,6 +33,12 @@ em strong {
 h2{
    text-align: center;
 }
+ul{
+ display: inline-blok;
+ vertical-align: top;
+ width: 20%
+ margin-right: 15%;
+}
 
 .imagemvitrine{
    width: 50%;
